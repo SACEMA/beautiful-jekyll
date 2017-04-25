@@ -24,10 +24,18 @@ description: Resources for estimating HIV incidence maintained by SACEMA
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Tools:
+    - inctools R Package: "inctools"
+    - Infection Dating Tool: "idt"
+    - Shiny Apps: "shiny-apps"
+  Downloads:
+    - CEPHIA Downloads: "cephia-downloads"
+  CEPHIA:
+    - Home: "cephia-home"
+    - Assay Evaluations: "cephia-evaluations"
+    - CEPHIA Database: "cephia-database"
+    - Downloads: "cephia-downloads"
+  Theory: "theory"
   SACEMA: "http://www.sacema.org"
 
 # Image to show in the navigation bar - image must be a square (width = height)
