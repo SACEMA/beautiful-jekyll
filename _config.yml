@@ -26,14 +26,14 @@ navbar-links:
   About: "about"
   Tools:
     - inctools R Package: "inctools"
-    - Infection Dating Tool: "infection-dating-tool"
+    - Infection Dating Tool: "https://tools.incidence-estimation.org/idt/"
     - Shiny Apps: "shiny-apps"
   Downloads:
     - CEPHIA Downloads: "cephia-downloads"
   CEPHIA:
     - Home: "cephia-home"
     - Assay Evaluations: "cephia-evaluations"
-    - CEPHIA Database: "cephia-database"
+    - CEPHIA Database: "https://cephiadb.incidence-estimation.org"
     - Downloads: "cephia-downloads"
   Theory: "theory"
   SACEMA: "http://www.sacema.org"
