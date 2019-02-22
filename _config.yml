@@ -33,7 +33,7 @@ navbar-links:
     - Assay Evaluations: "cephia-evaluations"
     - CEPHIA Database: "https://cephiadb.incidence-estimation.org"
     - Downloads: "cephia-downloads"
-    - JHU-CEPHIA-LAg: "jhu-cephia-lag"
+    #- JHU-CEPHIA-LAg: "jhu-cephia-lag"
   Theory: "theory"
   SACEMA: "http://www.sacema.org"
 
