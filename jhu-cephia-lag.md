@@ -4,7 +4,9 @@ title: Supplementary table to CROI 2019 Poster 1931
 subtitle:
 ---
 
-The following is a table with MDRI and FRR estimates for a range of ODn and viral load thresholds:
+The following is a table with MDRI and FRR estimates by subtype for a range of ODn and viral load thresholds:
+
+[Download as Excel spreadsheet](/JHU-CEPHIA-LAg.xlsx).
 
 | Subtype | ODn ≤ | VL > | MDRI (95% CI) | FRR Untreated (95% CI) | FRR Treated (95% CI)   |
 |---------|-------|------|---------------|------------------------|------------------------|
